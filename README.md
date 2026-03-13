@@ -1,6 +1,6 @@
 # 0KCK
 
-![Banner](https://i.postimg.cc/MTb8QxJB/image-2026-03-10-010117357.png)
+![Banner](https://i.postimg.cc/1z01Ww6c/Screenshot-2026-03-13-021939.png)
 
 0KCK is an external cheat client for FPS games like Rainbow Six Siege and COD. It combines anti-recoil, 
 weapon presets, and advanced macros in one tool, allowing hotkey preset switching and features like 
